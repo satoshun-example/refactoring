@@ -5,8 +5,7 @@ class SpeedValidator(object):
         self.b = b
 
     def validate(self):
-        """if Speed upper 50, returns Falsee
-        """
+        """if Speed upper 50, returns False"""
         result = self.a <= 50
         if not result:
             return False
