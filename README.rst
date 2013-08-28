@@ -2,5 +2,4 @@
 Python Refactoring Training, Sample
 ===================================
 
-- Method Extract
-- 
+- Extract method
