@@ -4,4 +4,5 @@ Python Refactoring Training, Sample
 
 - method
   - Extract method
-  - replace temp with query
+  - Replace temp with query
+  - Split temporary variable
