@@ -10,9 +10,11 @@ class BookStore(object):
     def price(self):
         """if price * num >= 1000 service price"""
         rate = 1.0
-        if self.num * self.__class__.book_price >= 1000:
+        base_price = self.num * self.__class__.book_price
+
+        if base_price >= 1000:
             rate = 0.9
-        return self.__class__.book_price * self.num * rate
+        return base_price * rate
 
 ## after
 
@@ -53,7 +55,6 @@ class BookStore3(object):
 
     def _base_price(self):
         return self.num * self.__class__.book_price
-        
 
 
 if __name__ == '__main__':
