@@ -11,3 +11,4 @@ Python Refactoring Training, Sample
   - Split temporary variable
 
   - Remove assignments to parameters
+    replace_temp_with_query.py_.
