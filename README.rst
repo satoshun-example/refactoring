@@ -2,7 +2,7 @@
 Refactoring Patterns
 ====================
 
-- method
+- **method**
 
   - Extract method
 
