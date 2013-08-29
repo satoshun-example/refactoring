@@ -1,6 +1,6 @@
-===================================
-Python Refactoring Training, Sample
-===================================
+====================
+Refactoring Patterns
+====================
 
 - method
 
@@ -11,3 +11,5 @@ Python Refactoring Training, Sample
   - Split temporary variable
 
   - Remove assignments to parameters
+  
+  - Replace method with method object
