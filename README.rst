@@ -11,5 +11,9 @@ Refactoring Patterns
   - Split temporary variable
 
   - Remove assignments to parameters
-  
+
   - Replace method with method object
+
+- **class*+
+
+  - Move method
