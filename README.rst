@@ -14,6 +14,8 @@ Refactoring Patterns
 
   - Replace method with method object
 
+  - Split loop
+
 - **class*+
 
   - Move method
