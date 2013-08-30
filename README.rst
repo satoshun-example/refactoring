@@ -20,4 +20,6 @@ Refactoring Patterns
 
   - Move method
 
+  - Move Field
+
   - Extract class
