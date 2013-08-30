@@ -19,3 +19,5 @@ Refactoring Patterns
 - **class*+
 
   - Move method
+
+  - Extract class
