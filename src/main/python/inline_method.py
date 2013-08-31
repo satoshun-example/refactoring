@@ -16,8 +16,7 @@ class Calculator(object):
 
 ## After
 class Calculator2(object):
-    """Method is_over_thousand move in inline code
-    """
+    """ Method is_over_thousand move in inline code"""
     __slots__ = ['__values']
 
     def __init__(self, *args):

@@ -1,5 +1,4 @@
 #Before
-
 class PriceCalculator(object):
     def __init__(self, unit_price, num):
         self.unit_price = unit_price
@@ -13,7 +12,6 @@ class PriceCalculator(object):
         return int(self.unit_price * self.num * 1.1)
 
 #After
-
 class PriceCalculator2(object):
     def __init__(self, unit_price, num):
         self.unit_price = unit_price
