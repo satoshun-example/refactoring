@@ -1,5 +1,6 @@
 package sample.refactoring;
 
+
 class Calculator {
     public int total(int a, int b, int c) {
         a += b;
