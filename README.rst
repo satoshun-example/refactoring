@@ -6,6 +6,8 @@ Refactoring Patterns
 
   - Extract method
 
+  - Inline method
+
   - Replace temp with query
 
   - Split temporary variable
