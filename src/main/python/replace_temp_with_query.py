@@ -34,7 +34,7 @@ class BookStore2(object):
 
     def _base_price(self):
         return self.num * self.__class__.book_price
-        
+
 ## after2
 
 class BookStore3(object):
