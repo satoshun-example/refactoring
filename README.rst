@@ -24,6 +24,8 @@ Refactoring Patterns
 
   - Move Field
 
-  - Extract class
+  - Extract Class
 
   - Extract Interface
+
+  - Hide Delegate
