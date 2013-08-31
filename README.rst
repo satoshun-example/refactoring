@@ -23,3 +23,5 @@ Refactoring Patterns
   - Move Field
 
   - Extract class
+
+  - Extract Interface
