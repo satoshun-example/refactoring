@@ -1,4 +1,13 @@
 ## Before
+
+"""
+    Customer
+        |
+     -------
+    |       |
+   Shop - Product
+"""
+
 class Customer(object):
     """ depend Shop, Product class"""
     def __init__(self, shop, product):
@@ -35,6 +44,14 @@ class Product(object):
 
 
 ## After
+"""
+    Customer2
+        |
+      Shop2
+        |
+     Product2
+"""
+
 class Customer2(object):
     """ depend Shop class"""
     def __init__(self, shop):
