@@ -34,6 +34,11 @@ Refactoring Patterns
 
   - Pull up method
 
+- **Interface**
+
+  - Extract Interface
+
+
 =======
 License
 =======
