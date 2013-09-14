@@ -2,7 +2,7 @@
 Refactoring Patterns
 ====================
 
-- **method**
+- **Method**
 
   - Extract method
 
@@ -18,7 +18,7 @@ Refactoring Patterns
 
   - Split loop
 
-- **class*+
+- **Class*+
 
   - Move method
 
