@@ -32,6 +32,8 @@ Refactoring Patterns
 
   - Replace inheritance with delegation
 
+  - Pull up method
+
 =======
 License
 =======
