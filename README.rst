@@ -30,6 +30,7 @@ Refactoring Patterns
 
   - Hide Delegate
 
+  - Replace inheritance with delegation
 
 =======
 License
